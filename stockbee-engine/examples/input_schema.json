@@ -1,0 +1,22 @@
+{
+  "symbol": "3167",
+  "name": "大量",
+  "market": "TWSE",
+  "data_as_of": "YYYY-MM-DD",
+  "candidate_direction": "BUY",
+  "current_bar_complete": true,
+  "corporate_action_unresolved": false,
+  "liquidity_pass": null,
+  "trigger_low": null,
+  "ohlcv": [
+    {
+      "date": "YYYY-MM-DD",
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "volume": 0,
+      "turnover_twd": 0
+    }
+  ]
+}
