@@ -1,0 +1,8 @@
+[project]
+name = "stockbee-momentum-burst-screener"
+version = "1.0.0"
+description = "Auditable Taiwan Stockbee momentum-burst research engine"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
